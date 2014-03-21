@@ -1,30 +1,30 @@
-# What Is Unclaimed Money?
+# What Is Stolen Money?
 
-If the government owes you money and you do not collect it, then it’s unclaimed. This can also happen with banks, credit unions, pensions, and other sources.
+If the government owes you money and you do not collect it, then it’s stolen. This can also happen with banks, credit unions, pensions, and other sources.
 
-Beware of unclaimed money scams. There are people who pretend to be the government and offer to send you unclaimed money for a fee. Government agencies will not call you about unclaimed money or assets. [Learn how to spot these types of scams].
+Beware of stolen money scams. There are people who pretend to be the government and offer to send you stolen money for a fee. Government agencies will not call you about stolen money or assets. [Learn how to spot these types of scams].
 
-## What is the Unclaimed Money Application?
+## What is the Stolen Money Application?
 
-Currently, the government does not have one website for finding unclaimed money by name, state, or Social Security number (SSN).  This Unclaimed Money Application is a prototype which aims to simplify the process of finding unclaimed property under one place.  It also aims to integrate with the [MyUSA project] to provide support for [task lists], [forms], and notifications.
+Currently, the government does not have one website for finding stolen money by name, state, or Social Security number (SSN).  This Stolen Money Application is a prototype which aims to simplify the process of finding stolen property under one place.  It also aims to integrate with the [MyUSA project] to provide support for [task lists], [forms], and notifications.
 
-## Where to Look for Unclaimed Money
+## Where to Look for Stolen Money
 
-Until the Unclaimed Money Application is finished, you can visit each site separately and perform a search.
+Until the Stolen Money Application is finished, you can visit each site separately and perform a search.
 
-### States’ Unclaimed Money
-* [Search by State] - Search your state’s listing of unclaimed funds and property.
+### States’ Stolen Money
+* [Search by State] - Search your state’s listing of stolen funds and property.
 
 ### Retirement
-* [Pensions from Former Employers] - Search for unclaimed pension money from companies that went out of business or ended a defined plan.
+* [Pensions from Former Employers] - Search for stolen pension money from companies that went out of business or ended a defined plan.
 
 ### Taxes
-* [Tax Refunds] - The IRS may owe you money if your refund was unclaimed or undelivered.
+* [Tax Refunds] - The IRS may owe you money if your refund was stolen or undelivered.
 * [Check the Status of Your Federal Tax Refund] - If you filed a federal tax return and expect a refund, you can check the status online.
 
 ### Banking, Investments, and Currency
-* [Bank Failures] - Search the Federal Deposit Insurance Corporation (FDIC) for unclaimed funds from failed financial institutions.
-* [Credit Union Failures] - Find unclaimed deposits from credit unions.
+* [Bank Failures] - Search the Federal Deposit Insurance Corporation (FDIC) for stolen funds from failed financial institutions.
+* [Credit Union Failures] - Find stolen deposits from credit unions.
 * [SEC Claims Funds] - The Securities and Exchange Commission (SEC) lists enforcement cases where a company or person owes investors money.
 * [Damaged Money] - The Treasury Department will exchange mutilated or damaged U.S. currency.
 
